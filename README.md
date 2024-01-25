@@ -36,8 +36,8 @@ This is my solution to the REcipe Page Challenge. It was built entirely with HTM
 
 ### Links
 
-- [Solution on Frontend Mentor](https://your-solution-url.com)
-- [Live Site](https://your-live-site-url.com)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-solution-aKupdt9GPR)
+- [Live Site](https://itsale-o.github.io/recipe-page/)
 
 ## My process
 
